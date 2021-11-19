@@ -26,3 +26,35 @@
     width:500px;
     outline-style:none;
 }
+.hero-btn{
+    display:inline-block;
+    margin-top:20px;
+    margin-left:500px;
+}
+.hero-btn button{
+    padding:20px;
+    width:500px;
+    border-radius:10px;
+    outline-style:none;
+    border:none;
+    background-color:rgb(29,161,242);
+    font-size:18px;
+    margin-bottom:15px;
+}
+.hero-btn button:hover{
+    cursor:pointer;
+}
+.paragraphs{
+    text-transform:capitalize;
+}
+.paragraphs a{
+    text-decoration:none;
+}
+#forgot{
+    margin-left:580px;
+    color:rgb(29,161,242);
+}
+#sign-up{
+    margin-left:90px;
+    color:rgb(29,161,242);
+}
