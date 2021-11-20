@@ -17,7 +17,7 @@
 .text{
     margin-top:15px;
     margin-left:480px;
-    font-size:26px;
+    font-size:18px;
 }
 .form input{
     border:none;
@@ -38,7 +38,7 @@
     outline-style:none;
     border:none;
     background-color:rgb(29,161,242);
-    font-size:18px;
+    font-size:16px;
     margin-bottom:15px;
 }
 .hero-btn button:hover{
